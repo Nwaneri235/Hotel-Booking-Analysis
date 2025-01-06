@@ -16,7 +16,13 @@
 
 This data project analysis aims to comply the hotel booking patterns from different countries over a period of time. We Analyzed booking methods whihch gives insight on the trends, to give recommodations and gain maximum knowledge of revenue generations by the hotels.
 
+### Dash Board Display
+
+![booking Dashboard](https://github.com/user-attachments/assets/b1ffefe0-cb0b-4eaf-8f72-95ddc0ddaf85)
+
+
 ### Data Source
+
 
 Hotel Booking: The Primary dataset used in the project is "hotel_booking_data.csv" file that contains each bookings sales made by the hotels.
 
