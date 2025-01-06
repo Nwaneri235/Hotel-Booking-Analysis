@@ -3,6 +3,7 @@
 ## Table Of Content
 
 - [Project Introduction](#project-introduction)
+- [Dash Board Display](#dash-board-display)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
