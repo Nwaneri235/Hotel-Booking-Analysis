@@ -64,4 +64,3 @@ I had to remove duplicate numbers and zero columns from my data because it would
 ### References 
 
 1. Hotel Booking Records from Asian Countries
-2. 
